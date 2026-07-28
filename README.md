@@ -42,6 +42,34 @@ Analyze the distribution of Movies and TV Shows in the Netflix dataset.
 4. Compare content proportions
 5. Summarize key findings
 
+
+# Task 3 - Country-Wise Netflix Content Analysis
+
+## Objective
+Analyze Netflix content availability across different countries.
+
+## Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+
+## Workflow
+1. Load cleaned dataset
+2. Clean country information
+3. Calculate content count by country
+4. Identify top content-producing countries
+5. Create visualization
+6. Generate business insights
+
+## Key Features
+- Country Analysis
+- Ranking Reports
+- Geographic Insights
+- Data Visualization
+
+## Conclusion
+The analysis identifies the leading countries contributing content to Netflix and provides geographic insights into the platform's content distribution.
 ## Conclusion
 Movies make up the majority of the Netflix catalog, while TV Shows represent a smaller portion.
 
