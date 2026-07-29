@@ -98,6 +98,38 @@ Analyze how Netflix content production has changed over time.
 - Trend Identification
 - Data Interpretation
 - Reporting
+# Task 5 - Content Rating & Genre Analysis
+
+## Objective
+Analyze Netflix content ratings and genres to understand audience preferences.
+
+## Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+
+## Workflow
+1. Analyze rating categories
+2. Identify top genres
+3. Compare ratings across Movies and TV Shows
+4. Create visualizations
+5. Generate audience insights
+
+## Key Features
+- Rating Analysis
+- Genre Analysis
+- Audience Segmentation
+- Comparative Reporting
+
+## Skills Learned
+- Advanced Data Analysis
+- Feature Exploration
+- Visualization Design
+- Insight Generation
+
+## Conclusion
+The analysis reveals popular content ratings, dominant genres, and audience segmentation patterns across Netflix's catalog.
 
 ## Conclusion
 Netflix content production has generally grown over time, with notable increases in recent years.
