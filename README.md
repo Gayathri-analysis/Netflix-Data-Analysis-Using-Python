@@ -68,6 +68,40 @@ Analyze Netflix content availability across different countries.
 - Geographic Insights
 - Data Visualization
 
+  # Task 4 - Trend Analysis by Release Year
+
+## Objective
+Analyze how Netflix content production has changed over time.
+
+## Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+
+## Workflow
+1. Load cleaned dataset
+2. Organize content by release year
+3. Calculate yearly releases
+4. Identify growth and decline
+5. Visualize trends
+6. Interpret business patterns
+
+## Key Features
+- Yearly Trend Analysis
+- Growth Tracking
+- Historical Insights
+- Trend Visualization
+
+## Skills Learned
+- Time Series Analysis
+- Trend Identification
+- Data Interpretation
+- Reporting
+
+## Conclusion
+Netflix content production has generally grown over time, with notable increases in recent years.
+
 ## Conclusion
 The analysis identifies the leading countries contributing content to Netflix and provides geographic insights into the platform's content distribution.
 ## Conclusion
